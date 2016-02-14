@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Hello 2016"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "Linkai"
+header-img: "img/post-2016-shsf.jpeg"
+tags:
+    - 生活
+---
+
+> “Yeah Let's begin. ”
+## 前言
+Linkai 的 Blog 就这么开通了。
