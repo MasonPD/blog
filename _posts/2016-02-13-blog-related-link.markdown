@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Blog related links"
+title:  "博客建站心得"
+subtitle: "Blog related links"
 date:   2016-02-13 17:32:00
 author: "Linkai"
 header-img: "img/post-2016-02-13-april.jpg"
