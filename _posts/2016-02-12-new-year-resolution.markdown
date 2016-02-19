@@ -6,6 +6,7 @@ author:  "Linkai"
 header-img: "img/post-bg-2015.jpg"
 tags:
    - 计划
+   - 中文
 ---
 
 新年要有计划！

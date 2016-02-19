@@ -7,6 +7,7 @@ author:     "Linkai"
 header-img: "img/post-2016-shsf.jpeg"
 tags:
     - 生活
+    - 中文
 ---
 
 > “Yeah Let's begin. ”

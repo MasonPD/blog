@@ -7,6 +7,7 @@ author: "Linkai"
 header-img: "img/post-2016-02-13-april.jpg"
 tags:
    - 博客相关
+   - 中文
 ---
 
 # 博客相关链接
